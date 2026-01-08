@@ -7,7 +7,7 @@
 
 Проект реализован как часть клиентского сервиса в гипермаркете «Аксон» (Череповец), но легко масштабируется под другие регионы и форматы.
 ССылка на Телеграм-канал: https://t.me/AkcoHOkHabot
-Скриншот 1: https://github.com/antivanin-cloud/ai_sergeich/blob/main/2026-01-07_20-50-37.png?raw=true
+Скриншот 1 - https://github.com/antivanin-cloud/ai_sergeich/blob/main/2026-01-07_20-50-37.png?raw=true
 ---
 
 ## Цели проекта
